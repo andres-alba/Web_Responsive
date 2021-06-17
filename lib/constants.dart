@@ -12,14 +12,14 @@ const kBigGreenNumber = TextStyle(
     fontSize: 35.0, color: Color(0xff21BA45), fontWeight: FontWeight.bold);
 
 const kBigRedNumber = TextStyle(
-    fontSize: 18.0, color: Color(0xffDA291C), fontWeight: FontWeight.bold);
+    fontSize: 18.0, color: Color(0xffDA291C), fontWeight: FontWeight.w900);
 
 const kSmallRedNumber = TextStyle(fontSize: 14.0, color: Color(0xffDA291C));
 
 const kSmallGreyNumber = TextStyle(
     fontSize: 20.0, color: Colors.blueGrey, fontWeight: FontWeight.bold);
 const kSmallText =
-    TextStyle(fontSize: 15.0, color: Colors.grey, fontWeight: FontWeight.bold);
+    TextStyle(fontSize: 14.0, color: Colors.grey, fontWeight: FontWeight.bold);
 
 const kSmallBlackText =
     TextStyle(fontSize: 14.0, color: Colors.black, fontWeight: FontWeight.bold);
