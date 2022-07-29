@@ -1,6 +1,4 @@
-# tecno_sas
 
-tecno sas app
 
 ## Getting Started
 
